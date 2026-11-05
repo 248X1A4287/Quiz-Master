@@ -1,0 +1,6 @@
+{
+  "name": "QuizMaster – Smart Quiz Application",
+  "description": "Smart, modern Android Quiz Application built with Flutter & Material 3, featuring Python, Java, SQL, General Knowledge quizzes, score tracking, custom question creator, and live interactive mobile demo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

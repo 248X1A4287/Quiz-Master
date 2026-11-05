@@ -1,0 +1,27 @@
+name: quiz_master
+description: "QuizMaster – Smart Quiz Application with Flutter, Provider, and SharedPreferences"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # State management
+  provider: ^6.1.2
+  # Local persistence simulating SQLite / Key-Value
+  shared_preferences: ^2.2.2
+  # Unique identifiers for custom questions
+  uuid: ^4.3.3
+  # Material Icons
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
